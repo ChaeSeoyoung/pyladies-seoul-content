@@ -8,7 +8,7 @@ PyCon Taiwan 2026에서 **PyLadies Seoul** 포스터를 발표하였습니다.
 
 이틀간 대만의 여러 Python 커뮤니티와 교류할 수 있어 뜻깊었습니다. **PyCon Hong Kong**과 **PyLadies Asia**에서 다시 만나기를 기대합니다!
 
-## 사진
+## 갤러리 
 
 ![PyCon Taiwan 2026 - 01](01.webp)
 
